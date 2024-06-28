@@ -10,6 +10,7 @@ public class Sele {
   @Test
   public void Sel() {
 	  
+	  //WebDriver 
 	  WebDriver driver;
 	  WebDriverManager.chromedriver().setup();
 	  
