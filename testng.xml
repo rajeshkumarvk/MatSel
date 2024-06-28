@@ -9,6 +9,7 @@
        <class name="SelTest.Images"/>
       <class name="SelTest.Navigate"/>
       <class name="SelTest.Links"/>
+      <class name="SelTest.Sele"/>
         </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
