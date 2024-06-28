@@ -13,7 +13,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 public class Images {
   @Test
   public void img() {
-	  
+	  //Test Webdriver setup
 	  WebDriver driver;
 
 		WebDriverManager.firefoxdriver().setup();
