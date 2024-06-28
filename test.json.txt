@@ -1,0 +1,19 @@
+{
+"url1":"https://google.com",
+"url2":"https://gmail.com",
+"url3":"https://demoqa.com/select-menu",
+"url4":"https://www.tutorialspoint.com/selenium/practice/selenium_automation_practice.php",
+"url5":"https://www.gsmarena.com/nokia-phones-1.php",
+"IMAGE":"//img",
+"CHECKBOX":"//input[@type='checkbox']",
+"url6":"https://google.com",
+"LINK": "//a",
+"url7":"https://online.actitime.com/rkumar1/login.do",
+"Link_XPATH":"//*[@id='oldSelectMenu']",
+"USERNAME_XPATH":"//input[@name='username']",
+"USERNAME":"rajesh.heggade@gmail.com",
+"PWD_XPATH":"//input[@name='pwd']",
+"PWD":"June123",
+"LOGIN_XPATH":"//div[contains(text(),'Login')]/preceding::a[@id='loginButton']",
+"LOGOUT_XPATH":"//div[@id='logo_aT']/following::a[contains(text(), 'Logout')][2]"
+}
