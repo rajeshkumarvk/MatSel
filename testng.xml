@@ -8,6 +8,7 @@
       <class name="SelTest.Checkbox"/>
        <class name="SelTest.Images"/>
       <class name="SelTest.Navigate"/>
+      <class name="SelTest.Links"/>
         </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
