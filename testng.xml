@@ -7,6 +7,7 @@
       <class name="SelTest.StringFileRead"/>
       <class name="SelTest.Checkbox"/>
        <class name="SelTest.Images"/>
+      <class name="SelTest.Navigate"/>
         </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
