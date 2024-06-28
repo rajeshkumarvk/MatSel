@@ -3,14 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="SelTest.Testscript01">
+      <class name="SelTest.JsonFileRead">
         <methods>
-          <include name="TestLogin"/>
-          <include name="tearDown"/>
-          <include name="startReporter"/>
-          <include name="getResult"/>
+          <include name="readjson"/>
         </methods>
-      </class> <!-- SelTest.Testscript01 -->
+      </class> <!-- SelTest.JsonFileRead -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

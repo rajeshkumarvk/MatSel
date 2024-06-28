@@ -39,7 +39,7 @@ public class JsonFileRead {
 	   driver = new ChromeDriver();
 	   
 	   //to access the file 
-	   driver.get(testdata.get("url2").toString());
+	   driver.get(testdata.get("url3").toString());
 	   
 	   //Maximizing window
        driver.manage().window().maximize();
