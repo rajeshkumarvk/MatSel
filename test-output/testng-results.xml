@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-06-28T17:59:41 IST" name="Default suite" finished-at="2024-06-28T18:00:00 IST" duration-ms="18919">
+  <suite started-at="2024-06-28T18:44:26 IST" name="Default suite" finished-at="2024-06-28T18:44:59 IST" duration-ms="32756">
     <groups>
     </groups>
-    <test started-at="2024-06-28T17:59:41 IST" name="Default test" finished-at="2024-06-28T18:00:00 IST" duration-ms="18919">
-      <class name="SelTest.JsonFileRead">
-        <test-method signature="readjson()[pri:0, instance:SelTest.JsonFileRead@1b2abca6]" started-at="2024-06-28T17:59:41 IST" name="readjson" finished-at="2024-06-28T18:00:00 IST" duration-ms="18860" status="PASS">
+    <test started-at="2024-06-28T18:44:26 IST" name="Default test" finished-at="2024-06-28T18:44:59 IST" duration-ms="32756">
+      <class name="SelTest.Navigate">
+        <test-method signature="Navi()[pri:0, instance:SelTest.Navigate@52af26ee]" started-at="2024-06-28T18:44:26 IST" name="Navi" finished-at="2024-06-28T18:44:59 IST" duration-ms="32691" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- readjson -->
-      </class> <!-- SelTest.JsonFileRead -->
+        </test-method> <!-- Navi -->
+      </class> <!-- SelTest.Navigate -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
