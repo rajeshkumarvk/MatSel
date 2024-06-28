@@ -6,6 +6,7 @@
       <class name="SelTest.JsonFileRead"/>
       <class name="SelTest.StringFileRead"/>
       <class name="SelTest.Checkbox"/>
+       <class name="SelTest.Images"/>
         </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
