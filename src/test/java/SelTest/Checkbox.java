@@ -13,7 +13,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 public class Checkbox {
 	@Test
 	public void chxbx() throws InterruptedException {
-            //This is webdriver
+           
 		WebDriver driver;
 
 		WebDriverManager.firefoxdriver().setup();
