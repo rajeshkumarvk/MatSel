@@ -4,7 +4,7 @@
 name: MatSel
 on:
   push:
-    branches: [work_branch]
+    branches: [main]
       
 
 jobs:
